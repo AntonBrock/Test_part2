@@ -1,5 +1,7 @@
 # todo_anton
 
+![Screenshot](screenshot_2.png)
+
 > test task on vue.js
 
 
